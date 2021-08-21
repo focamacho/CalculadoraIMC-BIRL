@@ -3,8 +3,8 @@ OH O HOME AI PO (TRAPEZIO DESCENDENTE calcularIMC(TRAPEZIO DESCENDENTE peso, TRA
 BIRL
 
 HORA DO SHOW
-    TRAPEZIO DESCENDENTE peso = 65; //Substitua por seu peso
-    TRAPEZIO DESCENDENTE altura = 1.70; //Substituia pela sua altura
+    TRAPEZIO DESCENDENTE peso = 65; //Substitua pelo seu peso
+    TRAPEZIO DESCENDENTE altura = 1.70; //Substitua pela sua altura
     TRAPEZIO DESCENDENTE imc = AJUDA O MALUCO TA DOENTE calcularIMC(peso, altura);
 
     ELE QUE A GENTE QUER? (imc < 18.5)
